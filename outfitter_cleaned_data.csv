@@ -1,0 +1,501 @@
+Date,Product,Category,Price,Quantity,Total,Customer Name,City
+2024-01-10,Sneakers,Men'S Wear,3000.0,3,9000.0,Ahmed Ali,Islamabad
+2024-02-22,Hoodie,Men'S Wear,1000.0,2,2000.0,Unknown,Multan
+2024-02-13,Sneakers,Men'S Wear,3000.0,2,6000.0,Aisha Khan,Multan
+2024-02-16,Sneakers,Women'S Wear,1000.0,4,4000.0,Unknown,Lahore
+2024-02-22,Hoodie,Men'S Wear,1500.0,4,6000.0,Usman Javed,Multan
+2024-03-14,Jeans,Men'S Wear,1000.0,4,4000.0,Ahmed Ali,Lahore
+2024-02-15,Jeans,Women'S Wear,1000.0,3,3000.0,Ahmed Ali,Multan
+2024-01-13,T-Shirt,Women'S Wear,1500.0,2,3000.0,Usman Javed,Karachi
+2024-02-06,T-Shirt,Women'S Wear,1500.0,3,4500.0,Usman Javed,Lahore
+2024-01-24,Jeans,Women'S Wear,1125.0,4,4500.0,Ali Raza,Lahore
+2024-01-02,Cap,Men'S Wear,1500.0,2,3000.0,Usman Javed,Hyderabad
+2024-03-26,Sneakers,Women'S Wear,1000.0,3,3000.0,Zara Sheikh,Multan
+2024-03-21,Cap,Men'S Wear,3000.0,3,9000.0,Usman Javed,Multan
+2024-04-09,Sneakers,Women'S Wear,4500.0,1,4500.0,Zara Sheikh,Lahore
+2024-01-14,Jeans,Women'S Wear,1000.0,3,3000.0,Usman Javed,Karachi
+2024-01-10,T-Shirt,Women'S Wear,750.0,4,3000.0,Ali Raza,Karachi
+2024-02-04,T-Shirt,Women'S Wear,1500.0,3,4500.0,Zara Sheikh,Unknown
+2024-01-25,Cap,Women'S Wear,1500.0,2,3000.0,Aisha Khan,Karachi
+2024-01-03,T-Shirt,Women'S Wear,1000.0,3,3000.0,Zara Sheikh,Multan
+2024-01-17,Jeans,Men'S Wear,1500.0,1,1500.0,Ali Raza,Hyderabad
+2024-01-12,Cap,Women'S Wear,1500.0,2,3000.0,Unknown,Lahore
+2024-02-23,Sneakers,Women'S Wear,2250.0,2,4500.0,Zara Sheikh,Islamabad
+2024-01-24,T-Shirt,Women'S Wear,1500.0,1,1500.0,Usman Javed,Hyderabad
+2024-01-29,Hoodie,Women'S Wear,1500.0,4,6000.0,Usman Javed,Islamabad
+2024-02-12,T-Shirt,Men'S Wear,3000.0,2,6000.0,Unknown,Hyderabad
+2024-01-25,Sneakers,Women'S Wear,1500.0,4,6000.0,Ali Raza,Karachi
+2024-04-09,Cap,Women'S Wear,1500.0,2,3000.0,Ahmed Ali,Multan
+2024-02-29,Sneakers,Women'S Wear,1500.0,2,3000.0,Usman Javed,Islamabad
+2024-03-30,Hoodie,Women'S Wear,1000.0,4,4000.0,Aisha Khan,Hyderabad
+2024-03-05,Jeans,Men'S Wear,1500.0,2,3000.0,Ali Raza,Multan
+2024-03-24,T-Shirt,Women'S Wear,1500.0,4,6000.0,Zara Sheikh,Islamabad
+2024-01-28,Cap,Men'S Wear,1500.0,1,1500.0,Zara Sheikh,Lahore
+2024-01-16,Jeans,Women'S Wear,1125.0,4,4500.0,Aisha Khan,Hyderabad
+2024-02-16,Sneakers,Men'S Wear,1500.0,1,1500.0,Usman Javed,Lahore
+2024-03-21,Cap,Men'S Wear,1500.0,2,3000.0,Ali Raza,Karachi
+2024-04-01,Jeans,Women'S Wear,3000.0,4,12000.0,Aisha Khan,Lahore
+2024-02-27,Cap,Women'S Wear,1500.0,2,3000.0,Usman Javed,Lahore
+2024-03-16,Hoodie,Men'S Wear,1500.0,4,6000.0,Ali Raza,Unknown
+2024-01-27,Hoodie,Men'S Wear,1500.0,1,1500.0,Zara Sheikh,Hyderabad
+2024-02-22,T-Shirt,Women'S Wear,1500.0,1,1500.0,Ali Raza,Karachi
+2024-02-11,T-Shirt,Men'S Wear,1500.0,4,6000.0,Unknown,Lahore
+2024-02-28,Hoodie,Men'S Wear,3000.0,1,3000.0,Ahmed Ali,Multan
+2024-02-16,Cap,Men'S Wear,1000.0,2,2000.0,Ali Raza,Islamabad
+2024-04-03,Hoodie,Women'S Wear,1000.0,2,2000.0,Ahmed Ali,Lahore
+2024-02-03,T-Shirt,Men'S Wear,1000.0,3,3000.0,Ali Raza,Karachi
+2024-02-06,Hoodie,Men'S Wear,3000.0,1,3000.0,Ahmed Ali,Lahore
+2024-01-06,Hoodie,Men'S Wear,1000.0,2,2000.0,Unknown,Islamabad
+2024-01-07,Cap,Women'S Wear,1000.0,4,4000.0,Zara Sheikh,Karachi
+2024-04-05,Jeans,Women'S Wear,1500.0,1,1500.0,Usman Javed,Hyderabad
+2024-04-05,T-Shirt,Men'S Wear,1500.0,2,3000.0,Ahmed Ali,Karachi
+2024-01-25,Cap,Women'S Wear,1500.0,1,1500.0,Unknown,Hyderabad
+2024-02-02,Hoodie,Men'S Wear,1500.0,4,6000.0,Ahmed Ali,Karachi
+2024-02-24,Hoodie,Women'S Wear,1500.0,2,3000.0,Zara Sheikh,Islamabad
+2024-02-27,Jeans,Women'S Wear,1500.0,3,4500.0,Ahmed Ali,Islamabad
+2024-01-07,T-Shirt,Men'S Wear,1500.0,3,4500.0,Unknown,Karachi
+2024-02-26,T-Shirt,Women'S Wear,1000.0,1,1000.0,Unknown,Lahore
+2024-01-12,Sneakers,Women'S Wear,1500.0,4,6000.0,Aisha Khan,Islamabad
+2024-01-16,T-Shirt,Women'S Wear,3000.0,2,6000.0,Zara Sheikh,Hyderabad
+2024-03-20,Jeans,Men'S Wear,1500.0,4,6000.0,Aisha Khan,Hyderabad
+2024-02-12,Sneakers,Women'S Wear,1500.0,2,3000.0,Zara Sheikh,Multan
+2024-04-09,Sneakers,Women'S Wear,1500.0,1,1500.0,Ahmed Ali,Unknown
+2024-03-17,Hoodie,Men'S Wear,1500.0,2,3000.0,Unknown,Unknown
+2024-01-07,Hoodie,Women'S Wear,1500.0,4,6000.0,Aisha Khan,Unknown
+2024-04-09,T-Shirt,Women'S Wear,750.0,4,3000.0,Ahmed Ali,Hyderabad
+2024-02-20,Sneakers,Women'S Wear,3000.0,1,3000.0,Unknown,Multan
+2024-03-13,Hoodie,Women'S Wear,1000.0,4,4000.0,Zara Sheikh,Unknown
+2024-02-01,Jeans,Women'S Wear,1500.0,2,3000.0,Unknown,Unknown
+2024-03-15,Hoodie,Men'S Wear,4500.0,1,4500.0,Ahmed Ali,Karachi
+2024-01-08,Hoodie,Men'S Wear,2250.0,2,4500.0,Aisha Khan,Karachi
+2024-04-06,Sneakers,Women'S Wear,3000.0,4,12000.0,Aisha Khan,Karachi
+2024-03-27,Sneakers,Women'S Wear,1500.0,1,1500.0,Unknown,Lahore
+2024-03-29,Cap,Women'S Wear,1500.0,2,3000.0,Ahmed Ali,Unknown
+2024-03-12,Jeans,Men'S Wear,750.0,4,3000.0,Ali Raza,Lahore
+2024-02-14,Sneakers,Men'S Wear,3000.0,4,12000.0,Zara Sheikh,Multan
+2024-03-26,T-Shirt,Women'S Wear,1000.0,3,3000.0,Zara Sheikh,Hyderabad
+2024-02-28,Jeans,Women'S Wear,1125.0,4,4500.0,Ahmed Ali,Unknown
+2024-01-04,Jeans,Men'S Wear,3000.0,2,6000.0,Ali Raza,Hyderabad
+2024-03-07,Sneakers,Women'S Wear,1500.0,1,1500.0,Aisha Khan,Karachi
+2024-01-29,Jeans,Men'S Wear,1500.0,3,4500.0,Usman Javed,Unknown
+2024-01-29,Sneakers,Men'S Wear,750.0,4,3000.0,Usman Javed,Islamabad
+2024-04-07,Hoodie,Women'S Wear,750.0,4,3000.0,Ahmed Ali,Lahore
+2024-04-07,Cap,Men'S Wear,1500.0,4,6000.0,Ali Raza,Lahore
+2024-01-28,Hoodie,Women'S Wear,3000.0,2,6000.0,Ali Raza,Unknown
+2024-03-17,Sneakers,Women'S Wear,1000.0,3,3000.0,Zara Sheikh,Karachi
+2024-03-19,Sneakers,Women'S Wear,1500.0,2,3000.0,Aisha Khan,Lahore
+2024-03-27,Hoodie,Women'S Wear,1500.0,3,4500.0,Unknown,Karachi
+2024-02-13,T-Shirt,Women'S Wear,4500.0,1,4500.0,Ali Raza,Multan
+2024-03-30,T-Shirt,Women'S Wear,1500.0,2,3000.0,Unknown,Hyderabad
+2024-01-04,T-Shirt,Men'S Wear,3000.0,2,6000.0,Usman Javed,Islamabad
+2024-03-30,Sneakers,Men'S Wear,3000.0,1,3000.0,Unknown,Hyderabad
+2024-01-09,Jeans,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Hyderabad
+2024-01-05,Sneakers,Men'S Wear,1125.0,4,4500.0,Aisha Khan,Multan
+2024-02-25,Jeans,Women'S Wear,3000.0,1,3000.0,Unknown,Lahore
+2024-04-05,Hoodie,Men'S Wear,1125.0,4,4500.0,Ahmed Ali,Islamabad
+2024-03-24,Cap,Men'S Wear,750.0,4,3000.0,Ali Raza,Lahore
+2024-02-19,Jeans,Men'S Wear,1500.0,1,1500.0,Ahmed Ali,Unknown
+2024-03-15,T-Shirt,Women'S Wear,1500.0,3,4500.0,Unknown,Hyderabad
+2024-01-15,Sneakers,Men'S Wear,750.0,4,3000.0,Ali Raza,Unknown
+2024-02-01,Hoodie,Women'S Wear,1000.0,1,1000.0,Zara Sheikh,Karachi
+2024-01-28,T-Shirt,Men'S Wear,1500.0,2,3000.0,Ahmed Ali,Hyderabad
+2024-01-22,Hoodie,Women'S Wear,3000.0,2,6000.0,Ahmed Ali,Lahore
+2024-01-17,Cap,Women'S Wear,1500.0,2,3000.0,Unknown,Hyderabad
+2024-02-28,Sneakers,Men'S Wear,3000.0,1,3000.0,Usman Javed,Karachi
+2024-03-30,Sneakers,Women'S Wear,3000.0,2,6000.0,Unknown,Multan
+2024-03-11,Cap,Women'S Wear,1500.0,4,6000.0,Ahmed Ali,Unknown
+2024-02-26,Sneakers,Men'S Wear,3000.0,2,6000.0,Ali Raza,Unknown
+2024-01-26,Jeans,Men'S Wear,1500.0,2,3000.0,Usman Javed,Lahore
+2024-01-25,Hoodie,Men'S Wear,3000.0,4,12000.0,Unknown,Hyderabad
+2024-01-10,T-Shirt,Women'S Wear,1500.0,2,3000.0,Unknown,Lahore
+2024-02-14,Cap,Women'S Wear,1500.0,4,6000.0,Ahmed Ali,Multan
+2024-03-23,Jeans,Women'S Wear,1000.0,2,2000.0,Ahmed Ali,Hyderabad
+2024-01-11,T-Shirt,Men'S Wear,1500.0,4,6000.0,Zara Sheikh,Hyderabad
+2024-03-17,T-Shirt,Women'S Wear,3000.0,2,6000.0,Unknown,Lahore
+2024-02-22,Cap,Women'S Wear,1500.0,4,6000.0,Ahmed Ali,Lahore
+2024-03-12,Jeans,Women'S Wear,1500.0,1,1500.0,Aisha Khan,Karachi
+2024-03-08,T-Shirt,Women'S Wear,1500.0,4,6000.0,Usman Javed,Multan
+2024-04-04,T-Shirt,Women'S Wear,2250.0,2,4500.0,Aisha Khan,Karachi
+2024-01-28,Jeans,Women'S Wear,1500.0,2,3000.0,Usman Javed,Unknown
+2024-03-15,Sneakers,Women'S Wear,1000.0,3,3000.0,Unknown,Hyderabad
+2024-03-05,T-Shirt,Men'S Wear,750.0,4,3000.0,Zara Sheikh,Lahore
+2024-02-18,Hoodie,Men'S Wear,3000.0,1,3000.0,Ahmed Ali,Hyderabad
+2024-02-16,Jeans,Men'S Wear,3000.0,4,12000.0,Ahmed Ali,Hyderabad
+2024-02-21,T-Shirt,Women'S Wear,3000.0,4,12000.0,Ahmed Ali,Islamabad
+2024-03-28,Cap,Women'S Wear,4500.0,1,4500.0,Unknown,Unknown
+2024-02-23,Hoodie,Men'S Wear,1125.0,4,4500.0,Usman Javed,Islamabad
+2024-02-29,T-Shirt,Women'S Wear,3000.0,1,3000.0,Ahmed Ali,Hyderabad
+2024-02-26,Hoodie,Men'S Wear,1500.0,1,1500.0,Aisha Khan,Lahore
+2024-02-16,Hoodie,Women'S Wear,1500.0,4,6000.0,Ahmed Ali,Hyderabad
+2024-01-31,Sneakers,Women'S Wear,3000.0,4,12000.0,Unknown,Unknown
+2024-02-15,Hoodie,Men'S Wear,1500.0,2,3000.0,Zara Sheikh,Islamabad
+2024-01-26,Sneakers,Men'S Wear,3000.0,2,6000.0,Aisha Khan,Lahore
+2024-01-05,Jeans,Men'S Wear,1000.0,3,3000.0,Ahmed Ali,Hyderabad
+2024-03-24,Sneakers,Men'S Wear,1500.0,3,4500.0,Ahmed Ali,Multan
+2024-02-21,Cap,Men'S Wear,1125.0,4,4500.0,Ali Raza,Unknown
+2024-03-15,T-Shirt,Women'S Wear,1500.0,1,1500.0,Usman Javed,Unknown
+2024-02-23,Jeans,Women'S Wear,1500.0,3,4500.0,Aisha Khan,Multan
+2024-02-02,Jeans,Women'S Wear,1000.0,4,4000.0,Ali Raza,Hyderabad
+2024-02-19,Cap,Men'S Wear,1000.0,3,3000.0,Zara Sheikh,Unknown
+2024-02-07,Sneakers,Men'S Wear,1500.0,1,1500.0,Usman Javed,Lahore
+2024-01-27,T-Shirt,Men'S Wear,750.0,4,3000.0,Aisha Khan,Hyderabad
+2024-04-07,Sneakers,Men'S Wear,1000.0,1,1000.0,Ahmed Ali,Hyderabad
+2024-01-15,Hoodie,Men'S Wear,3000.0,4,12000.0,Aisha Khan,Islamabad
+2024-04-05,Sneakers,Men'S Wear,3000.0,3,9000.0,Ahmed Ali,Unknown
+2024-03-01,Jeans,Women'S Wear,2250.0,2,4500.0,Usman Javed,Unknown
+2024-01-21,T-Shirt,Women'S Wear,1500.0,3,4500.0,Ahmed Ali,Multan
+2024-02-15,Sneakers,Women'S Wear,1000.0,3,3000.0,Zara Sheikh,Islamabad
+2024-03-09,T-Shirt,Women'S Wear,1500.0,2,3000.0,Unknown,Islamabad
+2024-01-06,T-Shirt,Women'S Wear,3000.0,2,6000.0,Ahmed Ali,Unknown
+2024-02-07,Hoodie,Men'S Wear,1000.0,4,4000.0,Zara Sheikh,Hyderabad
+2024-03-02,Hoodie,Men'S Wear,1500.0,4,6000.0,Unknown,Islamabad
+2024-03-26,Jeans,Men'S Wear,1500.0,1,1500.0,Usman Javed,Multan
+2024-03-02,Cap,Men'S Wear,3000.0,1,3000.0,Usman Javed,Islamabad
+2024-03-22,T-Shirt,Men'S Wear,1000.0,3,3000.0,Aisha Khan,Multan
+2024-03-18,Cap,Men'S Wear,1500.0,2,3000.0,Zara Sheikh,Islamabad
+2024-03-14,Jeans,Women'S Wear,3000.0,1,3000.0,Zara Sheikh,Multan
+2024-02-15,T-Shirt,Men'S Wear,1000.0,3,3000.0,Ali Raza,Islamabad
+2024-01-13,T-Shirt,Men'S Wear,1500.0,2,3000.0,Ali Raza,Islamabad
+2024-04-04,Cap,Men'S Wear,1500.0,4,6000.0,Unknown,Lahore
+2024-04-03,Sneakers,Men'S Wear,1500.0,3,4500.0,Unknown,Multan
+2024-01-03,Hoodie,Women'S Wear,3000.0,4,12000.0,Ali Raza,Multan
+2024-04-03,Sneakers,Women'S Wear,3000.0,1,3000.0,Unknown,Multan
+2024-01-06,Cap,Men'S Wear,1500.0,1,1500.0,Ahmed Ali,Karachi
+2024-04-02,Hoodie,Women'S Wear,1500.0,2,3000.0,Ali Raza,Islamabad
+2024-01-08,Sneakers,Women'S Wear,1500.0,3,4500.0,Zara Sheikh,Multan
+2024-02-13,Hoodie,Men'S Wear,1500.0,4,6000.0,Ahmed Ali,Unknown
+2024-02-02,T-Shirt,Men'S Wear,1000.0,2,2000.0,Unknown,Karachi
+2024-03-21,Sneakers,Men'S Wear,1000.0,1,1000.0,Usman Javed,Lahore
+2024-03-15,Hoodie,Men'S Wear,3000.0,1,3000.0,Aisha Khan,Multan
+2024-03-17,Hoodie,Men'S Wear,1000.0,3,3000.0,Ali Raza,Multan
+2024-02-19,Hoodie,Women'S Wear,1000.0,4,4000.0,Usman Javed,Karachi
+2024-01-11,Sneakers,Men'S Wear,1000.0,3,3000.0,Unknown,Islamabad
+2024-04-04,Jeans,Men'S Wear,1500.0,4,6000.0,Zara Sheikh,Unknown
+2024-01-28,Sneakers,Men'S Wear,1000.0,4,4000.0,Aisha Khan,Lahore
+2024-03-10,Cap,Women'S Wear,1000.0,3,3000.0,Usman Javed,Multan
+2024-02-10,Sneakers,Men'S Wear,1000.0,2,2000.0,Aisha Khan,Islamabad
+2024-01-16,Hoodie,Men'S Wear,1500.0,3,4500.0,Ali Raza,Unknown
+2024-03-08,T-Shirt,Men'S Wear,1500.0,3,4500.0,Unknown,Unknown
+2024-04-08,Sneakers,Women'S Wear,3000.0,1,3000.0,Zara Sheikh,Lahore
+2024-02-17,Sneakers,Men'S Wear,1500.0,1,1500.0,Unknown,Hyderabad
+2024-02-25,Hoodie,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Unknown
+2024-03-04,T-Shirt,Men'S Wear,1500.0,3,4500.0,Usman Javed,Hyderabad
+2024-02-28,T-Shirt,Women'S Wear,1500.0,1,1500.0,Ali Raza,Unknown
+2024-03-30,Cap,Men'S Wear,750.0,4,3000.0,Ali Raza,Lahore
+2024-03-02,Sneakers,Men'S Wear,1000.0,3,3000.0,Unknown,Karachi
+2024-03-16,T-Shirt,Men'S Wear,1500.0,2,3000.0,Usman Javed,Lahore
+2024-01-11,T-Shirt,Women'S Wear,3000.0,2,6000.0,Usman Javed,Lahore
+2024-03-29,Jeans,Men'S Wear,1000.0,2,2000.0,Aisha Khan,Karachi
+2024-01-18,Jeans,Men'S Wear,1500.0,3,4500.0,Unknown,Karachi
+2024-01-19,T-Shirt,Men'S Wear,1000.0,4,4000.0,Unknown,Islamabad
+2024-03-27,Cap,Women'S Wear,1000.0,4,4000.0,Ahmed Ali,Unknown
+2024-02-24,T-Shirt,Women'S Wear,3000.0,1,3000.0,Unknown,Islamabad
+2024-03-22,Hoodie,Men'S Wear,3000.0,3,9000.0,Ali Raza,Karachi
+2024-01-26,Sneakers,Women'S Wear,1500.0,4,6000.0,Aisha Khan,Hyderabad
+2024-01-06,Cap,Women'S Wear,3000.0,3,9000.0,Usman Javed,Hyderabad
+2024-01-04,Hoodie,Women'S Wear,1000.0,1,1000.0,Unknown,Lahore
+2024-01-29,Cap,Men'S Wear,3000.0,1,3000.0,Aisha Khan,Multan
+2024-02-28,Hoodie,Men'S Wear,3000.0,1,3000.0,Unknown,Lahore
+2024-04-07,Sneakers,Women'S Wear,1500.0,2,3000.0,Usman Javed,Lahore
+2024-01-17,Sneakers,Women'S Wear,1000.0,3,3000.0,Zara Sheikh,Multan
+2024-02-12,Jeans,Women'S Wear,1500.0,1,1500.0,Usman Javed,Unknown
+2024-03-20,Hoodie,Men'S Wear,1000.0,3,3000.0,Usman Javed,Karachi
+2024-03-06,Jeans,Men'S Wear,1500.0,2,3000.0,Usman Javed,Hyderabad
+2024-02-03,Hoodie,Women'S Wear,1500.0,2,3000.0,Unknown,Lahore
+2024-01-08,Jeans,Women'S Wear,1500.0,1,1500.0,Ahmed Ali,Multan
+2024-01-13,Sneakers,Women'S Wear,3000.0,1,3000.0,Usman Javed,Islamabad
+2024-01-08,Cap,Women'S Wear,3000.0,4,12000.0,Ali Raza,Lahore
+2024-04-03,Jeans,Men'S Wear,1000.0,3,3000.0,Ali Raza,Hyderabad
+2024-04-05,Hoodie,Women'S Wear,1500.0,1,1500.0,Aisha Khan,Karachi
+2024-04-09,Hoodie,Men'S Wear,1500.0,4,6000.0,Ahmed Ali,Lahore
+2024-04-03,Sneakers,Women'S Wear,1000.0,3,3000.0,Aisha Khan,Lahore
+2024-03-05,Hoodie,Women'S Wear,1500.0,1,1500.0,Ali Raza,Unknown
+2024-02-12,T-Shirt,Women'S Wear,1500.0,4,6000.0,Ali Raza,Multan
+2024-02-08,Cap,Women'S Wear,3000.0,4,12000.0,Zara Sheikh,Islamabad
+2024-03-21,Jeans,Women'S Wear,1000.0,3,3000.0,Usman Javed,Islamabad
+2024-02-28,Cap,Men'S Wear,1500.0,4,6000.0,Ali Raza,Karachi
+2024-03-24,Sneakers,Women'S Wear,1500.0,3,4500.0,Unknown,Hyderabad
+2024-03-28,Jeans,Women'S Wear,1000.0,3,3000.0,Unknown,Karachi
+2024-03-26,Jeans,Women'S Wear,1500.0,3,4500.0,Aisha Khan,Lahore
+2024-04-02,T-Shirt,Men'S Wear,1000.0,2,2000.0,Aisha Khan,Lahore
+2024-03-26,Sneakers,Men'S Wear,1000.0,4,4000.0,Usman Javed,Islamabad
+2024-02-13,Hoodie,Men'S Wear,1500.0,3,4500.0,Usman Javed,Hyderabad
+2024-01-09,T-Shirt,Men'S Wear,1000.0,1,1000.0,Zara Sheikh,Multan
+2024-02-06,T-Shirt,Women'S Wear,1500.0,2,3000.0,Ahmed Ali,Hyderabad
+2024-03-14,Cap,Women'S Wear,1000.0,2,2000.0,Aisha Khan,Lahore
+2024-02-05,Cap,Women'S Wear,1500.0,4,6000.0,Usman Javed,Multan
+2024-04-01,Cap,Men'S Wear,1000.0,3,3000.0,Aisha Khan,Hyderabad
+2024-01-28,T-Shirt,Women'S Wear,1000.0,4,4000.0,Usman Javed,Hyderabad
+2024-02-11,Hoodie,Women'S Wear,3000.0,2,6000.0,Ali Raza,Multan
+2024-02-12,Jeans,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Lahore
+2024-03-25,Cap,Men'S Wear,1500.0,1,1500.0,Ali Raza,Hyderabad
+2024-03-28,Hoodie,Men'S Wear,3000.0,3,9000.0,Aisha Khan,Multan
+2024-02-11,Sneakers,Women'S Wear,3000.0,2,6000.0,Ahmed Ali,Unknown
+2024-03-06,Cap,Women'S Wear,1000.0,1,1000.0,Zara Sheikh,Unknown
+2024-02-24,Jeans,Men'S Wear,3000.0,3,9000.0,Unknown,Lahore
+2024-03-12,Sneakers,Women'S Wear,3000.0,1,3000.0,Unknown,Multan
+2024-02-17,Sneakers,Men'S Wear,1500.0,1,1500.0,Unknown,Unknown
+2024-03-31,Jeans,Men'S Wear,3000.0,2,6000.0,Ali Raza,Multan
+2024-01-22,Cap,Women'S Wear,3000.0,1,3000.0,Usman Javed,Hyderabad
+2024-01-27,T-Shirt,Men'S Wear,1125.0,4,4500.0,Unknown,Lahore
+2024-04-02,Jeans,Men'S Wear,1500.0,2,3000.0,Ahmed Ali,Unknown
+2024-03-07,Jeans,Men'S Wear,1500.0,4,6000.0,Unknown,Hyderabad
+2024-01-13,Jeans,Women'S Wear,1000.0,1,1000.0,Aisha Khan,Karachi
+2024-02-14,Sneakers,Men'S Wear,1125.0,4,4500.0,Ali Raza,Karachi
+2024-01-10,Hoodie,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Lahore
+2024-04-09,T-Shirt,Men'S Wear,1500.0,1,1500.0,Aisha Khan,Unknown
+2024-01-09,Cap,Men'S Wear,1000.0,3,3000.0,Aisha Khan,Unknown
+2024-02-23,Cap,Men'S Wear,1500.0,4,6000.0,Zara Sheikh,Unknown
+2024-01-27,Hoodie,Men'S Wear,1500.0,3,4500.0,Zara Sheikh,Multan
+2024-02-03,Jeans,Men'S Wear,1500.0,1,1500.0,Usman Javed,Hyderabad
+2024-01-01,T-Shirt,Women'S Wear,1500.0,3,4500.0,Ali Raza,Unknown
+2024-02-01,Cap,Women'S Wear,750.0,4,3000.0,Ahmed Ali,Hyderabad
+2024-03-29,Cap,Men'S Wear,750.0,4,3000.0,Ahmed Ali,Lahore
+2024-04-02,Jeans,Women'S Wear,1500.0,4,6000.0,Ahmed Ali,Unknown
+2024-03-11,Hoodie,Women'S Wear,3000.0,1,3000.0,Aisha Khan,Lahore
+2024-03-07,T-Shirt,Men'S Wear,750.0,4,3000.0,Zara Sheikh,Unknown
+2024-03-24,Hoodie,Women'S Wear,1000.0,1,1000.0,Ali Raza,Karachi
+2024-01-20,Hoodie,Men'S Wear,1000.0,3,3000.0,Aisha Khan,Islamabad
+2024-04-03,T-Shirt,Men'S Wear,1500.0,4,6000.0,Zara Sheikh,Lahore
+2024-02-04,T-Shirt,Men'S Wear,1500.0,3,4500.0,Zara Sheikh,Unknown
+2024-04-08,Cap,Men'S Wear,3000.0,2,6000.0,Unknown,Islamabad
+2024-03-31,Cap,Men'S Wear,1500.0,3,4500.0,Unknown,Lahore
+2024-03-30,T-Shirt,Women'S Wear,1500.0,2,3000.0,Ali Raza,Multan
+2024-03-18,Sneakers,Men'S Wear,1500.0,3,4500.0,Ali Raza,Unknown
+2024-01-17,Cap,Women'S Wear,1000.0,1,1000.0,Ali Raza,Multan
+2024-01-18,Sneakers,Men'S Wear,3000.0,3,9000.0,Aisha Khan,Karachi
+2024-02-14,T-Shirt,Men'S Wear,1000.0,1,1000.0,Usman Javed,Unknown
+2024-04-02,Cap,Men'S Wear,3000.0,1,3000.0,Ali Raza,Karachi
+2024-03-24,Hoodie,Women'S Wear,1500.0,4,6000.0,Unknown,Islamabad
+2024-02-22,T-Shirt,Men'S Wear,4500.0,1,4500.0,Usman Javed,Lahore
+2024-03-31,Jeans,Men'S Wear,1500.0,2,3000.0,Aisha Khan,Hyderabad
+2024-03-22,Sneakers,Men'S Wear,1000.0,4,4000.0,Usman Javed,Karachi
+2024-03-08,T-Shirt,Men'S Wear,3000.0,4,12000.0,Ahmed Ali,Hyderabad
+2024-03-05,T-Shirt,Women'S Wear,1500.0,3,4500.0,Usman Javed,Hyderabad
+2024-01-01,Cap,Men'S Wear,1000.0,1,1000.0,Ali Raza,Lahore
+2024-02-27,Cap,Women'S Wear,3000.0,1,3000.0,Aisha Khan,Islamabad
+2024-01-26,Cap,Men'S Wear,1500.0,2,3000.0,Ali Raza,Lahore
+2024-01-20,Jeans,Women'S Wear,1500.0,3,4500.0,Unknown,Unknown
+2024-03-27,Cap,Women'S Wear,1500.0,3,4500.0,Ahmed Ali,Karachi
+2024-01-10,T-Shirt,Men'S Wear,1000.0,4,4000.0,Unknown,Hyderabad
+2024-02-28,Cap,Men'S Wear,3000.0,4,12000.0,Ali Raza,Lahore
+2024-03-15,Hoodie,Women'S Wear,1125.0,4,4500.0,Ali Raza,Lahore
+2024-02-10,Cap,Men'S Wear,1500.0,2,3000.0,Ali Raza,Lahore
+2024-01-05,Jeans,Men'S Wear,3000.0,2,6000.0,Zara Sheikh,Karachi
+2024-03-05,Hoodie,Men'S Wear,1000.0,4,4000.0,Ahmed Ali,Islamabad
+2024-01-17,T-Shirt,Women'S Wear,1500.0,3,4500.0,Ali Raza,Lahore
+2024-01-22,T-Shirt,Men'S Wear,1500.0,2,3000.0,Ali Raza,Karachi
+2024-04-07,Sneakers,Men'S Wear,3000.0,3,9000.0,Unknown,Hyderabad
+2024-02-10,Hoodie,Men'S Wear,3000.0,3,9000.0,Unknown,Unknown
+2024-04-02,Sneakers,Women'S Wear,3000.0,1,3000.0,Ali Raza,Multan
+2024-03-08,Hoodie,Men'S Wear,1000.0,4,4000.0,Aisha Khan,Karachi
+2024-03-09,Hoodie,Women'S Wear,1000.0,1,1000.0,Zara Sheikh,Multan
+2024-01-11,Jeans,Men'S Wear,1000.0,4,4000.0,Unknown,Lahore
+2024-02-25,Sneakers,Women'S Wear,1125.0,4,4500.0,Aisha Khan,Lahore
+2024-02-20,Jeans,Men'S Wear,3000.0,3,9000.0,Zara Sheikh,Karachi
+2024-01-21,Hoodie,Men'S Wear,1500.0,4,6000.0,Ali Raza,Multan
+2024-04-08,T-Shirt,Women'S Wear,1000.0,3,3000.0,Ahmed Ali,Lahore
+2024-03-16,Hoodie,Women'S Wear,1000.0,3,3000.0,Usman Javed,Hyderabad
+2024-01-26,Jeans,Women'S Wear,3000.0,4,12000.0,Usman Javed,Islamabad
+2024-01-19,Sneakers,Men'S Wear,1000.0,3,3000.0,Ali Raza,Islamabad
+2024-02-29,Sneakers,Men'S Wear,1000.0,3,3000.0,Unknown,Lahore
+2024-03-11,Jeans,Men'S Wear,1000.0,3,3000.0,Aisha Khan,Multan
+2024-02-16,Sneakers,Men'S Wear,1000.0,2,2000.0,Ahmed Ali,Unknown
+2024-03-11,Cap,Women'S Wear,3000.0,3,9000.0,Zara Sheikh,Lahore
+2024-01-26,T-Shirt,Men'S Wear,3000.0,2,6000.0,Ali Raza,Unknown
+2024-02-09,T-Shirt,Men'S Wear,3000.0,2,6000.0,Ahmed Ali,Unknown
+2024-01-05,T-Shirt,Men'S Wear,1500.0,3,4500.0,Ahmed Ali,Multan
+2024-01-21,Sneakers,Men'S Wear,1000.0,3,3000.0,Unknown,Unknown
+2024-03-18,Sneakers,Men'S Wear,3000.0,2,6000.0,Zara Sheikh,Hyderabad
+2024-01-04,Hoodie,Men'S Wear,2250.0,2,4500.0,Ahmed Ali,Multan
+2024-01-23,Hoodie,Men'S Wear,1500.0,3,4500.0,Unknown,Lahore
+2024-03-24,T-Shirt,Women'S Wear,1500.0,3,4500.0,Aisha Khan,Hyderabad
+2024-01-15,Cap,Men'S Wear,3000.0,4,12000.0,Unknown,Karachi
+2024-04-02,Hoodie,Men'S Wear,1500.0,2,3000.0,Aisha Khan,Islamabad
+2024-01-08,Hoodie,Men'S Wear,1500.0,2,3000.0,Aisha Khan,Lahore
+2024-02-10,Sneakers,Men'S Wear,1500.0,4,6000.0,Ahmed Ali,Lahore
+2024-01-19,Cap,Women'S Wear,2250.0,2,4500.0,Unknown,Lahore
+2024-02-15,T-Shirt,Women'S Wear,4500.0,1,4500.0,Aisha Khan,Hyderabad
+2024-01-28,Hoodie,Women'S Wear,1500.0,2,3000.0,Zara Sheikh,Karachi
+2024-03-31,Cap,Women'S Wear,1500.0,4,6000.0,Ahmed Ali,Multan
+2024-03-08,Cap,Women'S Wear,1500.0,1,1500.0,Unknown,Karachi
+2024-01-15,T-Shirt,Women'S Wear,1000.0,3,3000.0,Unknown,Hyderabad
+2024-04-08,Cap,Men'S Wear,1500.0,4,6000.0,Usman Javed,Lahore
+2024-02-06,Cap,Women'S Wear,1500.0,4,6000.0,Unknown,Islamabad
+2024-01-01,Cap,Women'S Wear,1500.0,3,4500.0,Ahmed Ali,Lahore
+2024-03-07,Hoodie,Men'S Wear,1500.0,4,6000.0,Zara Sheikh,Multan
+2024-01-24,T-Shirt,Women'S Wear,1000.0,2,2000.0,Unknown,Unknown
+2024-01-27,Cap,Men'S Wear,1500.0,3,4500.0,Usman Javed,Islamabad
+2024-02-09,Cap,Men'S Wear,3000.0,4,12000.0,Ahmed Ali,Lahore
+2024-03-03,Hoodie,Women'S Wear,1500.0,3,4500.0,Aisha Khan,Islamabad
+2024-03-01,T-Shirt,Men'S Wear,1500.0,3,4500.0,Ali Raza,Unknown
+2024-02-05,Sneakers,Women'S Wear,1500.0,3,4500.0,Ali Raza,Karachi
+2024-04-07,Hoodie,Women'S Wear,3000.0,1,3000.0,Aisha Khan,Hyderabad
+2024-04-02,T-Shirt,Men'S Wear,1500.0,4,6000.0,Unknown,Lahore
+2024-01-24,Cap,Men'S Wear,3000.0,1,3000.0,Ali Raza,Multan
+2024-01-24,T-Shirt,Women'S Wear,1500.0,4,6000.0,Ali Raza,Karachi
+2024-01-04,T-Shirt,Men'S Wear,1500.0,2,3000.0,Aisha Khan,Lahore
+2024-03-07,T-Shirt,Men'S Wear,1500.0,2,3000.0,Unknown,Karachi
+2024-02-03,Sneakers,Women'S Wear,1500.0,2,3000.0,Unknown,Multan
+2024-02-26,T-Shirt,Women'S Wear,3000.0,4,12000.0,Aisha Khan,Lahore
+2024-02-18,Sneakers,Men'S Wear,1500.0,3,4500.0,Unknown,Unknown
+2024-03-27,Cap,Women'S Wear,1000.0,3,3000.0,Unknown,Unknown
+2024-02-22,Sneakers,Women'S Wear,1000.0,1,1000.0,Ahmed Ali,Multan
+2024-01-23,Cap,Women'S Wear,4500.0,1,4500.0,Ahmed Ali,Islamabad
+2024-03-09,Cap,Women'S Wear,1500.0,2,3000.0,Aisha Khan,Multan
+2024-04-04,Sneakers,Women'S Wear,4500.0,1,4500.0,Zara Sheikh,Islamabad
+2024-02-22,Hoodie,Women'S Wear,3000.0,4,12000.0,Ali Raza,Lahore
+2024-03-02,Jeans,Women'S Wear,1000.0,4,4000.0,Ahmed Ali,Islamabad
+2024-02-10,T-Shirt,Men'S Wear,1500.0,1,1500.0,Ali Raza,Lahore
+2024-02-26,Jeans,Women'S Wear,3000.0,1,3000.0,Usman Javed,Lahore
+2024-02-29,T-Shirt,Men'S Wear,3000.0,1,3000.0,Aisha Khan,Hyderabad
+2024-02-23,T-Shirt,Men'S Wear,1500.0,1,1500.0,Zara Sheikh,Lahore
+2024-03-10,Cap,Men'S Wear,3000.0,2,6000.0,Usman Javed,Islamabad
+2024-02-26,T-Shirt,Women'S Wear,1500.0,2,3000.0,Usman Javed,Hyderabad
+2024-01-10,T-Shirt,Women'S Wear,1500.0,1,1500.0,Unknown,Hyderabad
+2024-02-09,Sneakers,Men'S Wear,1500.0,4,6000.0,Usman Javed,Lahore
+2024-01-07,Jeans,Women'S Wear,1500.0,2,3000.0,Aisha Khan,Multan
+2024-02-07,Sneakers,Men'S Wear,3000.0,4,12000.0,Ahmed Ali,Multan
+2024-03-25,T-Shirt,Women'S Wear,3000.0,3,9000.0,Aisha Khan,Unknown
+2024-03-01,Cap,Women'S Wear,1500.0,4,6000.0,Ahmed Ali,Hyderabad
+2024-03-24,Sneakers,Men'S Wear,1500.0,1,1500.0,Usman Javed,Lahore
+2024-01-03,Sneakers,Men'S Wear,1500.0,3,4500.0,Usman Javed,Multan
+2024-02-20,Hoodie,Men'S Wear,1000.0,2,2000.0,Zara Sheikh,Lahore
+2024-03-26,T-Shirt,Women'S Wear,1000.0,2,2000.0,Ahmed Ali,Lahore
+2024-02-16,Cap,Men'S Wear,1000.0,3,3000.0,Usman Javed,Hyderabad
+2024-03-08,Sneakers,Women'S Wear,1500.0,4,6000.0,Unknown,Unknown
+2024-04-01,Sneakers,Women'S Wear,3000.0,2,6000.0,Ali Raza,Hyderabad
+2024-03-16,Cap,Women'S Wear,4500.0,1,4500.0,Zara Sheikh,Karachi
+2024-02-07,T-Shirt,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Multan
+2024-02-05,Hoodie,Men'S Wear,3000.0,1,3000.0,Zara Sheikh,Multan
+2024-02-10,Sneakers,Men'S Wear,3000.0,3,9000.0,Ali Raza,Multan
+2024-03-09,Hoodie,Women'S Wear,1500.0,2,3000.0,Ahmed Ali,Islamabad
+2024-01-13,Jeans,Women'S Wear,1500.0,4,6000.0,Aisha Khan,Lahore
+2024-03-27,T-Shirt,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Hyderabad
+2024-02-27,Jeans,Women'S Wear,1500.0,3,4500.0,Ahmed Ali,Multan
+2024-02-19,Jeans,Women'S Wear,3000.0,1,3000.0,Zara Sheikh,Karachi
+2024-01-30,Jeans,Men'S Wear,1500.0,2,3000.0,Usman Javed,Multan
+2024-03-02,T-Shirt,Men'S Wear,1000.0,1,1000.0,Zara Sheikh,Unknown
+2024-01-25,T-Shirt,Men'S Wear,1500.0,2,3000.0,Ali Raza,Lahore
+2024-01-27,Cap,Women'S Wear,3000.0,1,3000.0,Unknown,Lahore
+2024-02-20,Hoodie,Women'S Wear,1500.0,3,4500.0,Usman Javed,Hyderabad
+2024-03-18,Hoodie,Women'S Wear,3000.0,1,3000.0,Zara Sheikh,Islamabad
+2024-02-26,Cap,Women'S Wear,1500.0,4,6000.0,Unknown,Hyderabad
+2024-02-16,Cap,Women'S Wear,3000.0,2,6000.0,Unknown,Multan
+2024-04-09,Jeans,Men'S Wear,1500.0,2,3000.0,Ahmed Ali,Unknown
+2024-02-08,Cap,Women'S Wear,1000.0,3,3000.0,Ali Raza,Karachi
+2024-01-16,Sneakers,Women'S Wear,1000.0,2,2000.0,Ali Raza,Hyderabad
+2024-01-22,Hoodie,Women'S Wear,1125.0,4,4500.0,Ali Raza,Islamabad
+2024-03-25,Cap,Men'S Wear,3000.0,1,3000.0,Usman Javed,Hyderabad
+2024-02-23,Sneakers,Men'S Wear,3000.0,3,9000.0,Aisha Khan,Lahore
+2024-01-21,Sneakers,Men'S Wear,1500.0,4,6000.0,Usman Javed,Multan
+2024-03-12,Sneakers,Women'S Wear,1500.0,2,3000.0,Zara Sheikh,Multan
+2024-01-16,Sneakers,Men'S Wear,1500.0,2,3000.0,Unknown,Multan
+2024-02-28,Jeans,Men'S Wear,750.0,4,3000.0,Unknown,Multan
+2024-01-31,Sneakers,Men'S Wear,4500.0,1,4500.0,Aisha Khan,Multan
+2024-02-11,Jeans,Women'S Wear,1000.0,1,1000.0,Zara Sheikh,Multan
+2024-03-14,Jeans,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Karachi
+2024-02-01,Sneakers,Women'S Wear,1500.0,2,3000.0,Unknown,Islamabad
+2024-02-28,Hoodie,Women'S Wear,1000.0,4,4000.0,Usman Javed,Multan
+2024-02-03,Sneakers,Men'S Wear,1500.0,1,1500.0,Ali Raza,Islamabad
+2024-01-09,Sneakers,Women'S Wear,1500.0,3,4500.0,Unknown,Unknown
+2024-03-21,Sneakers,Men'S Wear,1000.0,2,2000.0,Ahmed Ali,Multan
+2024-01-11,Hoodie,Women'S Wear,1000.0,2,2000.0,Ali Raza,Hyderabad
+2024-04-05,T-Shirt,Men'S Wear,3000.0,3,9000.0,Unknown,Multan
+2024-01-10,T-Shirt,Men'S Wear,1500.0,3,4500.0,Usman Javed,Lahore
+2024-03-26,Jeans,Men'S Wear,4500.0,1,4500.0,Aisha Khan,Karachi
+2024-01-17,Jeans,Women'S Wear,1000.0,4,4000.0,Ali Raza,Hyderabad
+2024-03-08,Hoodie,Men'S Wear,2250.0,2,4500.0,Usman Javed,Hyderabad
+2024-02-17,Cap,Women'S Wear,1000.0,4,4000.0,Zara Sheikh,Lahore
+2024-02-21,T-Shirt,Men'S Wear,3000.0,2,6000.0,Ahmed Ali,Multan
+2024-01-25,Jeans,Women'S Wear,1000.0,2,2000.0,Ali Raza,Karachi
+2024-01-21,T-Shirt,Women'S Wear,1125.0,4,4500.0,Aisha Khan,Hyderabad
+2024-03-05,Hoodie,Men'S Wear,1500.0,3,4500.0,Zara Sheikh,Karachi
+2024-03-03,Hoodie,Men'S Wear,1000.0,1,1000.0,Usman Javed,Hyderabad
+2024-03-29,Cap,Men'S Wear,1000.0,2,2000.0,Ahmed Ali,Multan
+2024-02-20,Cap,Men'S Wear,1000.0,3,3000.0,Aisha Khan,Unknown
+2024-02-05,Hoodie,Men'S Wear,1500.0,2,3000.0,Usman Javed,Hyderabad
+2024-03-21,Jeans,Women'S Wear,3000.0,1,3000.0,Usman Javed,Unknown
+2024-03-28,T-Shirt,Men'S Wear,1500.0,2,3000.0,Ali Raza,Hyderabad
+2024-03-06,Sneakers,Men'S Wear,1500.0,1,1500.0,Ali Raza,Islamabad
+2024-01-15,Cap,Women'S Wear,1000.0,1,1000.0,Aisha Khan,Multan
+2024-04-05,Sneakers,Men'S Wear,3000.0,2,6000.0,Unknown,Lahore
+2024-02-08,Jeans,Men'S Wear,1000.0,2,2000.0,Unknown,Unknown
+2024-03-10,Cap,Women'S Wear,1000.0,1,1000.0,Usman Javed,Lahore
+2024-01-01,Sneakers,Men'S Wear,1500.0,3,4500.0,Ali Raza,Multan
+2024-01-23,Jeans,Men'S Wear,750.0,4,3000.0,Ahmed Ali,Lahore
+2024-02-08,T-Shirt,Men'S Wear,1000.0,1,1000.0,Ahmed Ali,Multan
+2024-02-26,Jeans,Women'S Wear,2250.0,2,4500.0,Usman Javed,Lahore
+2024-03-21,Cap,Men'S Wear,1500.0,2,3000.0,Ali Raza,Unknown
+2024-02-03,Hoodie,Women'S Wear,1000.0,3,3000.0,Aisha Khan,Islamabad
+2024-02-10,T-Shirt,Men'S Wear,3000.0,4,12000.0,Aisha Khan,Lahore
+2024-04-02,Sneakers,Women'S Wear,3000.0,1,3000.0,Aisha Khan,Unknown
+2024-03-13,Cap,Men'S Wear,1000.0,1,1000.0,Ahmed Ali,Hyderabad
+2024-01-13,Hoodie,Women'S Wear,750.0,4,3000.0,Ali Raza,Multan
+2024-03-10,Jeans,Women'S Wear,1000.0,1,1000.0,Ali Raza,Karachi
+2024-01-06,Hoodie,Women'S Wear,1500.0,4,6000.0,Ahmed Ali,Karachi
+2024-03-24,Cap,Women'S Wear,3000.0,2,6000.0,Aisha Khan,Multan
+2024-02-21,Cap,Women'S Wear,1000.0,4,4000.0,Aisha Khan,Islamabad
+2024-01-03,Hoodie,Women'S Wear,1500.0,1,1500.0,Usman Javed,Lahore
+2024-03-21,Jeans,Men'S Wear,1000.0,4,4000.0,Unknown,Islamabad
+2024-03-03,Hoodie,Men'S Wear,1000.0,3,3000.0,Zara Sheikh,Karachi
+2024-02-18,Cap,Women'S Wear,1500.0,2,3000.0,Unknown,Unknown
+2024-03-16,Cap,Women'S Wear,1500.0,2,3000.0,Ali Raza,Multan
+2024-02-16,Sneakers,Women'S Wear,1125.0,4,4500.0,Ali Raza,Multan
+2024-02-24,Sneakers,Women'S Wear,1500.0,1,1500.0,Ali Raza,Islamabad
+2024-03-04,T-Shirt,Men'S Wear,1500.0,3,4500.0,Unknown,Unknown
+2024-03-05,Cap,Women'S Wear,1500.0,2,3000.0,Zara Sheikh,Islamabad
+2024-03-21,Sneakers,Men'S Wear,2250.0,2,4500.0,Usman Javed,Lahore
+2024-03-07,Hoodie,Men'S Wear,1500.0,1,1500.0,Unknown,Hyderabad
+2024-03-30,Jeans,Women'S Wear,3000.0,1,3000.0,Zara Sheikh,Unknown
+2024-01-15,Hoodie,Women'S Wear,1500.0,3,4500.0,Aisha Khan,Hyderabad
+2024-04-09,Jeans,Men'S Wear,1125.0,4,4500.0,Aisha Khan,Lahore
+2024-02-01,Sneakers,Men'S Wear,3000.0,1,3000.0,Ali Raza,Hyderabad
+2024-04-05,T-Shirt,Women'S Wear,3000.0,4,12000.0,Ahmed Ali,Karachi
+2024-03-08,Hoodie,Women'S Wear,1000.0,3,3000.0,Ali Raza,Hyderabad
+2024-01-18,Hoodie,Women'S Wear,750.0,4,3000.0,Ahmed Ali,Lahore
+2024-03-23,Hoodie,Men'S Wear,1500.0,2,3000.0,Zara Sheikh,Hyderabad
+2024-02-12,Jeans,Men'S Wear,1000.0,4,4000.0,Aisha Khan,Multan
+2024-02-04,Sneakers,Women'S Wear,3000.0,3,9000.0,Unknown,Islamabad
+2024-03-18,Hoodie,Men'S Wear,1500.0,3,4500.0,Ahmed Ali,Karachi
+2024-02-27,Hoodie,Men'S Wear,1000.0,3,3000.0,Zara Sheikh,Multan
+2024-02-02,T-Shirt,Women'S Wear,750.0,4,3000.0,Aisha Khan,Multan
+2024-01-14,T-Shirt,Women'S Wear,3000.0,2,6000.0,Unknown,Lahore
+2024-02-03,Sneakers,Men'S Wear,1000.0,1,1000.0,Ahmed Ali,Islamabad
+2024-03-01,Sneakers,Men'S Wear,3000.0,2,6000.0,Ali Raza,Islamabad
+2024-01-04,Cap,Women'S Wear,1500.0,4,6000.0,Ali Raza,Unknown
+2024-03-28,T-Shirt,Women'S Wear,3000.0,4,12000.0,Ali Raza,Karachi
+2024-02-28,Cap,Women'S Wear,3000.0,1,3000.0,Zara Sheikh,Lahore
+2024-01-29,Jeans,Women'S Wear,1500.0,4,6000.0,Ali Raza,Karachi
+2024-03-23,Cap,Women'S Wear,3000.0,3,9000.0,Usman Javed,Unknown
+2024-01-06,Hoodie,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Hyderabad
+2024-04-06,Cap,Men'S Wear,1500.0,3,4500.0,Zara Sheikh,Multan
+2024-02-18,Sneakers,Men'S Wear,1000.0,3,3000.0,Unknown,Karachi
+2024-02-09,Jeans,Men'S Wear,1000.0,3,3000.0,Ali Raza,Multan
+2024-03-23,Hoodie,Women'S Wear,1500.0,4,6000.0,Aisha Khan,Lahore
+2024-03-05,Cap,Women'S Wear,1000.0,1,1000.0,Ahmed Ali,Hyderabad
+2024-03-09,Jeans,Women'S Wear,3000.0,1,3000.0,Ali Raza,Lahore
+2024-01-27,Jeans,Men'S Wear,1500.0,3,4500.0,Aisha Khan,Hyderabad
+2024-03-20,Hoodie,Men'S Wear,1125.0,4,4500.0,Usman Javed,Hyderabad
+2024-01-06,Cap,Men'S Wear,3000.0,2,6000.0,Ahmed Ali,Multan
+2024-01-13,Jeans,Women'S Wear,3000.0,2,6000.0,Usman Javed,Lahore
+2024-03-04,Jeans,Men'S Wear,3000.0,4,12000.0,Unknown,Lahore
+2024-03-02,T-Shirt,Women'S Wear,1500.0,3,4500.0,Aisha Khan,Karachi
+2024-04-08,Jeans,Women'S Wear,1500.0,1,1500.0,Usman Javed,Lahore
+2024-01-19,T-Shirt,Women'S Wear,1000.0,4,4000.0,Unknown,Karachi
+2024-03-16,Cap,Women'S Wear,1500.0,2,3000.0,Aisha Khan,Islamabad
+2024-03-20,Cap,Women'S Wear,1500.0,2,3000.0,Aisha Khan,Islamabad
+2024-02-12,Cap,Women'S Wear,1500.0,2,3000.0,Usman Javed,Islamabad
+2024-03-14,Sneakers,Men'S Wear,1000.0,3,3000.0,Aisha Khan,Unknown
+2024-03-29,Cap,Women'S Wear,1500.0,2,3000.0,Ali Raza,Lahore
+2024-01-20,Jeans,Women'S Wear,3000.0,4,12000.0,Aisha Khan,Unknown
+2024-04-04,Hoodie,Men'S Wear,3000.0,4,12000.0,Zara Sheikh,Lahore
+2024-03-08,T-Shirt,Women'S Wear,2250.0,2,4500.0,Unknown,Karachi
+2024-02-13,Sneakers,Men'S Wear,1500.0,4,6000.0,Aisha Khan,Unknown
+2024-01-23,Cap,Men'S Wear,1500.0,2,3000.0,Zara Sheikh,Unknown
+2024-01-02,Cap,Men'S Wear,1500.0,2,3000.0,Aisha Khan,Unknown
+2024-01-22,Hoodie,Women'S Wear,3000.0,1,3000.0,Aisha Khan,Hyderabad
+2024-02-26,Hoodie,Women'S Wear,1500.0,3,4500.0,Usman Javed,Karachi
+2024-03-12,Sneakers,Men'S Wear,1000.0,3,3000.0,Ali Raza,Islamabad
+2024-01-07,T-Shirt,Women'S Wear,1000.0,1,1000.0,Unknown,Karachi
+2024-03-18,Cap,Women'S Wear,3000.0,1,3000.0,Ali Raza,Hyderabad
